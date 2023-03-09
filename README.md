@@ -1,12 +1,12 @@
 # Api-saga
 
-## URL - [herokuapp.com](https://api-space-tourism-saga.herokuapp.com)
+## URL - [Render.com](https://space-tourism-server-saga.onrender.com/)
 
 ### /api
 
 - /crew
-  - <https://api-space-tourism-saga.herokuapp.com/api/crew>
+  - <https://space-tourism-server-saga.onrender.com/api/crew>
 - /destinations
-  - <https://api-space-tourism-saga.herokuapp.com/api/destinations>
+  - <https://space-tourism-server-saga.onrender.com/api/destinations>
 - /technology
-  - <https://api-space-tourism-saga.herokuapp.com/api/technology>
+  - <https://space-tourism-server-saga.onrender.com/api/technology>
